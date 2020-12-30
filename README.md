@@ -15,4 +15,5 @@ Pacote de ícones de uso livre, desenvolvido no Adobe XD especialmente para o iO
 
 ## Icon Requests:
 
+Este pacote não é associado a nenhuma organização comercial, e portanto, não é beneficiado por nenhuma forma de monetização, não sendo desenvolvido em tempo integral. As requisições por novos ícones serão atendidas a depender do tempo livre do criador, e podem ser feitas através do e-mail thalleshenrique.na@gmail.com
 
