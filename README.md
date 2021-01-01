@@ -47,43 +47,43 @@ Para remover os ícones, basta desinstalar o perfil, indo até configurações >
 
 - No Spotlight (deslize o dedo pra baixo em qualquer tela da homescreen ou vá à primeira tela, onde fica a "today view") pesquise pelo app de atalhos (ou "Shortcuts")
 
-![alt text](./tutorial-screenshots/atalhos/1.png)
+![alt text](./tutorial-screenshots/atalhos/1.PNG)
 
 - No app de atalhos, selecione o ícone de adicionar novo atalho
 
-![alt text](./tutorial-screenshots/atalhos/2.png)
+![alt text](./tutorial-screenshots/atalhos/2.PNG)
 
 - Na tela seguinte, selecione o botão de adicionar nova ação
 
-![alt text](./tutorial-screenshots/atalhos/3.png)
+![alt text](./tutorial-screenshots/atalhos/3.PNG)
 
 - Procure pela ação de "Abrir App"
 
-![alt text](./tutorial-screenshots/atalhos/4.png)
+![alt text](./tutorial-screenshots/atalhos/4.PNG)
 
 - Dentro da ação, toque em "Escolher"
 
-![alt text](./tutorial-screenshots/atalhos/5.png)
+![alt text](./tutorial-screenshots/atalhos/5.PNG)
 
 - Escolha o app que deseja adicionar
 
-![alt text](./tutorial-screenshots/atalhos/6.png)
+![alt text](./tutorial-screenshots/atalhos/6.PNG)
 
 - Selecione os três pontinhos no topo da tela
 
-![alt text](./tutorial-screenshots/atalhos/7.png)
+![alt text](./tutorial-screenshots/atalhos/7.PNG)
 
 - Selecione a opção "Adicionar à tela inicial"
 
-![alt text](./tutorial-screenshots/atalhos/8.png)
+![alt text](./tutorial-screenshots/atalhos/8.PNG)
 
 - Toque no ícone do atalho, selecione e corte a imagem conforme desejar
 
-![alt text](./tutorial-screenshots/atalhos/9.png)
+![alt text](./tutorial-screenshots/atalhos/9.PNG)
 
 - Toque na opção "Adicionar", no topo da tela
 
-![alt text](./tutorial-screenshots/atalhos/10.png)
+![alt text](./tutorial-screenshots/atalhos/10.PNG)
 
 - Repita a mesma operação para todos os ícones que deseja adicionar
 
